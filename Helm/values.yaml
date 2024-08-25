@@ -2,7 +2,7 @@
 #namespace: devops
 replicaCount: 1
 image:
-  repository: gj81/helmrockets
+  repository: gj81/helm-rockets
   tag: v1
 containerPort: 80
 # service.yaml
